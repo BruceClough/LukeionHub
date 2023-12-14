@@ -1,0 +1,2 @@
+['El principito', 'Antoine de Saint Exupéry', '1 de diciembre de 2023', 'buen libro']
+['Indigno de ser humano', 'Osamu Dazai', '5 de diciembre de 2023', 'libro trágico']
